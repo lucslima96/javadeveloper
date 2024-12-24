@@ -20,5 +20,7 @@ Cada projeto estará organizado em pastas específicas, com seus respectivos arq
 - **Projeto 1: [Conta Banco]**
   - Descrição: O objetivo desse projeto é simular uma conta bancaria através do terminal/console.
   
+- **Projeto 2: [Controle Fluxo]**
+  - Descrição: Implementar um sistema que realiza interações baseadas em dois números inteiros.
 
 
